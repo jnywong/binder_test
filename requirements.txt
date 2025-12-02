@@ -16,6 +16,7 @@ matplotlib==3.10.0
     # via
     #   -r requirements.in
     #   seaborn
+nbgitpuller @ git+https://github.com/cmarmo/nbgitpuller@proceedtotarget
 numpy==2.2.2
     # via
     #   -r requirements.in
