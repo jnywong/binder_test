@@ -16,7 +16,7 @@ matplotlib==3.10.0
     # via
     #   -r requirements.in
     #   seaborn
-nbgitpuller==1.2.2
+nbgitpuller @ git+https://github.com/jnywong/nbgitpuller@copy-error
 numpy==2.2.2
     # via
     #   -r requirements.in
